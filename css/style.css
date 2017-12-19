@@ -268,8 +268,11 @@ p {
 }
 /*--//work--*/
 /*--education--*/
+.education {
+	background:#000
+}
 .education .work-info h5 {
-    color: #000;
+    color: #fff;
 }
 /*--//education--*/
 /*--skills--*/
